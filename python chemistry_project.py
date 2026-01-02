@@ -1,9 +1,6 @@
-# =====================================
-# CHEMISTRY UNIT CONVERTER AND QUIZ APP
-# Beginner Level Python Program
-# =====================================
 
 print("\nWelcome to Vedika's Chemistry Project")
+
 def mass_converter():
     print("\n--- Mass Converter ---")
     print("1. Gram to Kilogram")
@@ -94,10 +91,7 @@ def chemistry_quiz():
 
     print("\nYour Score:", score, "/ 3")
 
-
-# ============================
-# MAIN MENU
-# ============================
+
 
 while True:
     print("\n====== CHEMISTRY APP ======")
